@@ -1,0 +1,10 @@
+request 5 UP
+request 7 UP
+tick
+tick
+tick
+tick
+tick
+tick
+status
+exit
